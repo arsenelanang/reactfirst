@@ -1,0 +1,17 @@
+{
+  "name": "reactfirst",
+  "description": "hello world",
+  "scripts": {
+    "postdeploy": "byarsenelanang"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
